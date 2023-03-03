@@ -39,7 +39,7 @@ Users should be able to:
 
 The most important thing in this app was working with @State and @Binding Property Wrappers
 ```swift
-struct ContentView: View {
+    struct ContentView: View {
     @State var player: String = ""
     ...
     
