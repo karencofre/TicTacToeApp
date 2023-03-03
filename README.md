@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 <p align="center">
-  <img src="./images/iphone.png" width="300" title="hover text"> 
+  <img src="./iphone.png" width="300" title="hover text"> 
 </p>
  
 ## My process
