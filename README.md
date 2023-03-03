@@ -21,7 +21,7 @@ This is my first game app
 
 Users should be able to:
 
-- Connect to two different endpoints of the api
+- Connect two Views trough property wrappers
 
 ### Screenshot
 <p align="center">
